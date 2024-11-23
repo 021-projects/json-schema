@@ -4,6 +4,7 @@
 <a href="https://packagist.org/packages/021/json-schema"><img src="https://img.shields.io/packagist/v/021/json-schema" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/021/json-schema"><img src="https://img.shields.io/packagist/l/021/json-schema" alt="License"></a>
 </p>
+
 This library provides a way to generate JSON schemas in PHP using an object-oriented approach. It is inspired by the [JSON Schema](https://json-schema.org/) standard and aims to provide a way to generate JSON schemas in a more readable and maintainable way.
 
 ## Installation
