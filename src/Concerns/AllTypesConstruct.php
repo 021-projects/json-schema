@@ -84,6 +84,8 @@ trait AllTypesConstruct
         protected ?string $anchor = null,
         protected ?string $ref = null,
         protected ?array $defs = null,
+        // Transformation
+        protected mixed $transform = null,
     ) {
         $args = get_defined_vars();
         unset($args['this']);
